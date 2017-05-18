@@ -1,0 +1,4 @@
+com\fakeapi\controller\ResponseMessage.class
+com\fakeapi\controller\SimpleCORSFilter.class
+com\fakeapi\controller\RequestPayload.class
+com\fakeapi\controller\SampleController.class

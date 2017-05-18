@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20140630</FitNesseVersion>
+  <rootPath>FrontPage.MyFirstSuite</rootPath>
+    <pageHistoryReference>
+    <name>FrontPage.MyFirstSuite.WelcomeWorld</name>
+    <date>05/17/2017 19:57:15</date>
+    <pageHistoryLink>FrontPage.MyFirstSuite.WelcomeWorld?pageHistory&amp;resultDate=20170517195715</pageHistoryLink>
+    <counts>
+      <right>5</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>1</exceptions>
+    </counts>
+    <runTimeInMillis>251</runTimeInMillis>
+  </pageHistoryReference>
+    <finalCounts>
+    <right>0</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>1</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>1017</totalRunTimeInMillis>
+
+</suiteResults>
+
